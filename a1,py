@@ -1,6 +1,7 @@
 # This codeis written by TanzilCorporation
 #This is written for educational pupose to understand the basics of functions and arthemitics are been used in this small project.
 #This file should be kept with a2.py inorder to run successfully.
+# I have added to many hints and possibility of output that can be for each function to make it more clear.
 
 
 def seconds_difference(time_1, time_2):       
