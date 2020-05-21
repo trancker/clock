@@ -1,3 +1,9 @@
+#This code is written by TanzilCorporation.
+#this is written for educational purppose for college and Universities students.
+# you have to save this file with a1.py to make it run properly.
+
+
+
 import tkinter
 import a1
 import time
